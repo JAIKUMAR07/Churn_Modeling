@@ -1,8 +1,5 @@
-tensorflow>=2.10,<2.13
-pandas
-numpy
-scikit-learn
-matplotlib
 streamlit
-scikeras
-nltk
+tensorflow==2.12.0
+numpy
+pandas
+scikit-learn
